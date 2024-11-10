@@ -54,7 +54,7 @@
     "CO_OWNER_ID": {
       "description": "Enter Your Co-Owner's Telegram User ID To Get Full Access Of Bot. Go To Rose Bot And Send /id To Get Your Co-Owner User ID. Don't Put Comma ( , ) In Vars Just Give A Space And Put Another User ID!",
       "value": "7000125824",
-      "required": True
+      "required": False
     },
     "SUDO_USERS": {
       "description": "Enter Your Sudo User's Telegram User ID To Access Commands Of Bot. Go To Rose Bot And Send /id To Get Your Sudo User ID. Don't Put Comma ( , ) In Vars Just Give A Space And Put Another User ID!",
