@@ -14,78 +14,77 @@
 "success_url": "(link unavailable)",
 "env": {
 "BOT_TOKEN1": {
-"description": "Enter your bot token 1. Master bot (main bot). Get it from @BotFather!",
+"description": "Enter your bot token 1",
 "value": ""
 },
 "BOT_TOKEN2": {
-"description": "Enter your bot token 2. Get it from @BotFather!",
+"description": "Enter your bot token 2",
 "value": "",
 "required": false
 },
 "BOT_TOKEN3": {
-"description": "Enter your bot token 3. Get it from @BotFather!",
+"description": "Enter your bot token 3",
 "value": "",
 "required": false
 },
 "BOT_TOKEN4": {
-"description": "Enter your bot token 4. Get it from @BotFather!",
+"description": "Enter your bot token 4",
 "value": "",
 "required": false
 },
 "BOT_TOKEN5": {
-"description": "Enter your bot token 5. Get it from @BotFather!",
+"description": "Enter your bot token 5",
 "value": "",
 "required": false
 },
 "OWNER_NAME": {
-"description": "Enter your good name on Telegram!",
-"value": "|•| Tʜᴇ Sʜɪᴠ Oғғɪᴄɪᴀʟ ⋟",
-"required": false
+"description": "Enter your name",
+"value": ""
 },
 "OWNER_USERNAME": {
-"description": "Enter your Telegram username without @!",
-"value": "ll_tso_king_ll",
+"description": "Enter your Telegram username",
+"value": "",
 "required": false
 },
 "OWNER_ID": {
-"description": "Enter your Telegram user ID to get full access of your bot. Go to Rose bot and send /id to get your owner user ID. Only one user can be owner of bot!",
-"value": "5849341651"
+"description": "Enter your Telegram user ID",
+"value": ""
 },
 "CO_OWNER_ID": {
-"description": "Enter your co-owner's Telegram user ID to get full access of bot. Go to Rose bot and send /id to get your co-owner user ID. Don't put comma (,) in vars, just give a space and put another user ID!",
-"value": "7000125824",
+"description": "Enter your co-owner's Telegram user ID",
+"value": "",
 "required": false
 },
 "SUDO_USERS": {
-"description": "Enter your sudo user's Telegram user ID to access commands of bot. Go to Rose bot and send /id to get your sudo user ID. Don't put comma (,) in vars, just give a space and put another user ID!",
-"value": "5686536025",
+"description": "Enter your sudo users' Telegram user IDs",
+"value": "",
 "required": false
 },
 "DISPLAY_PIC": {
-"description": "Enter your bot display pic. Put Telegraph link!",
-"value": "(link unavailable)",
+"description": "Enter your bot display pic URL",
+"value": "",
 "required": false
 },
 "BIO_MSG": {
-"description": "Enter your bot bio message to show in alive command!",
+"description": "Enter your bot bio message",
 "value": "",
 "required": false
 },
 "API_ID": {
-"description": "Enter your Telegram API ID. Get it from (link unavailable)!",
-"value": "16201672"
+"description": "Enter your Telegram API ID",
+"value": ""
 },
 "API_HASH": {
-"description": "Enter your Telegram API hash. Get it from (link unavailable)!",
-"value": "55f85061314c2c0f6edeec9751b90913"
+"description": "Enter your Telegram API hash",
+"value": ""
 },
 "HEROKU_API_KEY": {
-"description": "Enter your Heroku API key. Get it from (link unavailable)!",
-"value": "d7126b73-5e5b-4cda-86cd-196ccb235a35",
+"description": "Enter your Heroku API key",
+"value": "",
 "required": false
 },
 "HEROKU_APP_NAME": {
-"description": "Enter your Heroku app name!",
+"description": "Enter your Heroku app name",
 "value": "",
 "required": false
 }
@@ -95,3 +94,4 @@
 "url": "heroku/python"
 }
 ]
+}
