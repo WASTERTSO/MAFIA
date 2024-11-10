@@ -15,26 +15,26 @@
   "env": {
     "BOT_TOKEN1": {
       "description": "Enter Your Bot Token 1. Master Bot (Main Bot). Get It From @BotFather!",
-      "value": "5826523808:AAHvErtskMezWkhO4oymL1f2Fr4bm6RG4gQ"
+      "value": ""
     },
     "BOT_TOKEN2": {
       "description": "Enter Your Bot Token 2. Get It From @BotFather!",
-      "value": "6102106086:AAHl_7y6eTxKxW0S2FMGVUb5bWDi1m4DjcI",
+      "value": "",
       "required": false
     },
     "BOT_TOKEN3": {
       "description": "Enter Your Bot Token 3. Get It From @BotFather!",
-      "value": "6105400837:AAHpmys5UoJkZrFk2SvE30ETYHFKVZrd4ok",
+      "value": "",
       "required": false
     },
     "BOT_TOKEN4": {
       "description": "Enter Your Bot Token 4. Get It From @BotFather!",
-      "value": "5984285504:AAH6grd2Bw4FekwFajHbnSq_npi0bnnU8jQ",
+      "value": "",
       "required": false
     },
     "BOT_TOKEN5": {
       "description": "Enter Your Bot Token 5. Get It From @BotFather!",
-      "value": "6197368799:AAFFG5CZaWNyQyYwbwp_QgtvLRknddTBrzQ",
+      "value": "",
       "required": false
     },
     "OWNER_NAME": {
@@ -49,12 +49,12 @@
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram User ID To Get Full Access Of Your Bot. Go To Rose Bot And Send /id To Get Your Owner User ID. Only One User Can Be Owner Of Bot!",
-      "value": "5686536025"
+      "value": "5849341651"
     },
     "CO_OWNER_ID": {
       "description": "Enter Your Co-Owner's Telegram User ID To Get Full Access Of Bot. Go To Rose Bot And Send /id To Get Your Co-Owner User ID. Don't Put Comma ( , ) In Vars Just Give A Space And Put Another User ID!",
-      "value": "5686536025",
-      "required": false
+      "value": "7000125824",
+      "required": True
     },
     "SUDO_USERS": {
       "description": "Enter Your Sudo User's Telegram User ID To Access Commands Of Bot. Go To Rose Bot And Send /id To Get Your Sudo User ID. Don't Put Comma ( , ) In Vars Just Give A Space And Put Another User ID!",
